@@ -1,6 +1,3 @@
-# EXAMPLE REPOSITORY
+# Hex Grid Repository
 
-Demo
-
-# More text
-Draft
+This repository include my scripts and plots
